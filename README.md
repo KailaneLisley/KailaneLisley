@@ -4,7 +4,6 @@
 📊 Interesse em Inteligência Artificial, Ciência de Dados, Machine Learning e Desenvolvimento Web
 🔗 [Meu LinkedIn](www.linkedin.com/in/kailane-lisley-ciencia-da-computacao) 
 
-![GitHub followers](https://img.shields.io/github/followers/kailanelisley?style=social)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanelisley&layout=compact)
 
 ---
