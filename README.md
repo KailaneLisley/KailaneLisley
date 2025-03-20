@@ -2,19 +2,18 @@
 
 💻 Estudante de Ciência da Computação | Pesquisadora autodidata em IA  
 📊 Interesse em Inteligência Artificial, Ciência de Dados, Machine Learning e Desenvolvimento Web
+🛣️ **Minha Jornada**
+- 🚀 2025: Estudando para ser pesquisadora em IA
+- 📚 2024: Aprendi sobre Matemática Computacional e Estatística
+- 🎓 2023: Iniciei Ciência da Computação na UNICAP | Primeiro contato com Python e C/C++
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanelisley&layout=compact)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kailanelisley&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanelisley&layout=compact)
 | Tecnologia  | Status  |
 |------------|--------|
 | Python     | 🔥 Aprendendo |
 | Java       | 🚀 Explorando |
 | IA & ML    | 📈 Estudando |
-
-🛣️ **Minha Jornada**
-- 🚀 2025: Estudando para ser pesquisadora em IA
-- 📚 2024: Aprendi sobre Matemática Computacional e Estatística
-- 🎓 2023: Iniciei Ciência da Computação na UNICAP | Primeiro contato com Python e C/C++
 
 <p align="left">
   <a href="www.linkedin.com/in/kailane-lisley-ciencia-da-computacao">
