@@ -2,7 +2,6 @@
 
 <img align="right" src="[https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)" width='150'/> 
 
-[
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kailane-lisley-ciencia-da-computacao)
 
 💻 Estudante de Ciência da Computação pela UNICAP  
@@ -36,15 +35,7 @@
 | C/C++     | 💻 Aprimorando |
 | Java       | 🚀 Explorando |
 | IA & ML    | 📈 Estudando |
-
-<p align="left">
-  <a href="www.linkedin.com/in/kailane-lisley-ciencia-da-computacao">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/kailanelisley">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-  </a>
-</p>
+[[
 
 ---
 🚀 *"Buscando conhecimento para transformar o mundo com tecnologia!"*
