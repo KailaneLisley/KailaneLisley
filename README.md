@@ -1,7 +1,8 @@
 ### Olá! Me chamo Kailane Lisley!!
 
 💻 Estudante de Ciência da Computação pela UNICAP  
-📊 Interesse em Inteligência Artificial, Ciência de Dados, Machine Learning e Desenvolvimento Web
+📊 Interessada em Inteligência Artificial, Ciência de Dados, Machine Learning e Desenvolvimento Web
+
 🛣️ **Minha Jornada**
 - 🚀 2025: Estudando para ser pesquisadora em IA
 - 📚 2024: Aprendi sobre Matemática Computacional e Estatística
