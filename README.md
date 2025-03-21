@@ -12,21 +12,6 @@
 - 📚 2024: Aprendi sobre Matemática Computacional e Estatística
 - 🎓 2023: Iniciei Ciência da Computação na UNICAP | Primeiro contato com Python e C/C++
 
-## ⭐️ More Open Source Projects
-
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/golang-url-shortener"><b>🚀 Golang URL Shortener</b></a></td>
-      <td>This URL shortener service, built with Go and Hexagonal Architecture, leverages a serverless approach for efficient scalability and performance.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/telegram-multi-agent-ai-bot"><b>🦾 Telegram Multi-Agent AI Bot</b></a></td>
-      <td>Telegram Multi-Agent AI Bot is an AI-driven chatbot that uses LangChain and MongoDB Atlas Search for contextual conversations and intelligent responses.</td>
-    </tr>
-  </tbody>
-</table>
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kailanelisley&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanelisley&layout=compact)
 | Tecnologia  | Status  |
