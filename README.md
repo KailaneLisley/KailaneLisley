@@ -1,6 +1,6 @@
-### Olá! Eu sou a Kailane Lisley 👋
+### Olá! Me chamo Kailane Lisley!!
 
-💻 Estudante de Ciência da Computação | Pesquisadora autodidata em IA  
+💻 Estudante de Ciência da Computação pela UNICAP  
 📊 Interesse em Inteligência Artificial, Ciência de Dados, Machine Learning e Desenvolvimento Web
 🛣️ **Minha Jornada**
 - 🚀 2025: Estudando para ser pesquisadora em IA
@@ -12,6 +12,7 @@
 | Tecnologia  | Status  |
 |------------|--------|
 | Python     | 🔥 Aprendendo |
+| C/C++     | 💻 Aprimorando |
 | Java       | 🚀 Explorando |
 | IA & ML    | 📈 Estudando |
 
