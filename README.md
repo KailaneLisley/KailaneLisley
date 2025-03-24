@@ -13,6 +13,7 @@
 - 🎓 2023: Iniciei Ciência da Computação na UNICAP | Primeiro contato com Python e C/C++
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kailanelisley&show_icons=true&theme=radical)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanelisley&layout=compact)
 | Tecnologia  | Status  |
 |------------|--------|
@@ -20,7 +21,6 @@
 | C/C++     | 💻 Aprimorando |
 | Java       | 🚀 Explorando |
 | IA & ML    | 📈 Estudando |
-[[
 
 ---
 🚀 *"Buscando conhecimento para transformar o mundo com tecnologia!"*
