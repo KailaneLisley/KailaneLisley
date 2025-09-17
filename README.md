@@ -12,8 +12,6 @@
 - 📚 2024: Aprendi sobre Matemática Computacional e Estatística
 - 🎓 2023: Iniciei Ciência da Computação na UNICAP | Primeiro contato com Python e C/C++
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kailanelisley&show_icons=true&theme=radical)
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KailaneLisley&layout=compact&langs_count=8&theme=radical)
 | Tecnologia  | Status  |
 |------------|--------|
 | Python     | 🔥 Aprendendo |
