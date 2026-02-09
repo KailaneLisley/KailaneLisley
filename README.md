@@ -5,7 +5,7 @@
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kailane-lisley-ciencia-da-computacao)
 
 💻 Estudante de Ciência da Computação pela UNICAP  
-📊 Interessada em Inteligência Artificial, Ciência de Dados, Machine Learning e Desenvolvimento Web
+📊 Interessada em Ciência de Dados e Inteligência Artificial
 
 🛣️ **Minha Jornada**
 - 🚀 2025: Estudando para ser pesquisadora em IA
