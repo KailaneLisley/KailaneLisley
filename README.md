@@ -1,7 +1,5 @@
 <h2>Olá! Me chamo Kailane Lisley! 👋</h2>
 
-<img align="right" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="150"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kailane-lisley-ciencia-da-computacao)
 
 💻 **Estudante de Ciência da Computação pela UNICAP**
