@@ -15,15 +15,15 @@ Atualmente, meus interesses estão principalmente em **Ciência de Dados e Intel
 Entre pesquisas, projetos e muito aprendizado, estou construindo meu caminho na tecnologia. 🚀
 
 ---
-Iniciação científica
+## Iniciação científica
 
-PIBIC/UNICAP | 2026–2027 — Bolsista
+### PIBIC/UNICAP | 2026–2027 — Bolsista
 
 Análise comparativa de técnicas de aprendizagem de máquina aplicadas à classificação automática de doenças gastrointestinais.
 
 Pesquisa sobre a aplicação de técnicas de aprendizagem de máquina na classificação automática de doenças gastrointestinais, com avaliação de modelos de aprendizagem profunda e técnicas de regularização.
 
-PIBIC/UNICAP | 2025–2026 — Voluntária
+### PIBIC/UNICAP | 2025–2026 — Voluntária
 
 Otimização Multiobjetivo com MOEA/D: Uma Análise do Impacto da Escolha do Ponto de Referência nas Funções PBI e IPBI.
 
